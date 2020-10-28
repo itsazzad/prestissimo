@@ -8,3 +8,6 @@ phpdox.xml
 artifacts
 !artifacts/index.html
 tags
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
